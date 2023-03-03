@@ -1,0 +1,15 @@
+.menu-items{
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.menu-items li{
+    list-style-type: none;
+    margin-right: 15px;
+}
+
+.header{
+    
+}

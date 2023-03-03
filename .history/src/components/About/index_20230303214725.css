@@ -1,0 +1,13 @@
+.about {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about img {
+    height: 300px;
+}
+
+.about-header{
+    font-size: 80px;
+    margin: ;
+}

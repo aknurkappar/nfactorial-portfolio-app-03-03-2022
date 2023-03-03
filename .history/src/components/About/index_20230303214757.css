@@ -1,0 +1,14 @@
+.about {
+    display: flex;
+    justify-content: space-between;
+    height: 80h;
+}
+
+.about img {
+    height: 300px;
+}
+
+.about-header{
+    font-size: 80px;
+    margin: 0;
+}

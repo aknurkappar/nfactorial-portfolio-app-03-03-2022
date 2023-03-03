@@ -1,0 +1,14 @@
+.experience {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 95vh;
+}
+
+.experience-header{
+    font-size: 80px;
+}
+
+.experience ul{
+    list-style-type: lower-alpha;
+}

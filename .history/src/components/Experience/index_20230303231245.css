@@ -1,0 +1,10 @@
+.experience {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 95vh;
+}
+
+.experience-header{
+    font-size: 80px;
+}

@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+.main button{
+    width: 10em;
+    height: 3em;
+    background-color: #FD5A14;
+    font-weight: ;
+}

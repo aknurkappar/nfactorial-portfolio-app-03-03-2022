@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+.main button{
+    width: 10em;
+    height: 3em;
+    background-color: #FD5A14;
+    color: aliceblue;
+    font-weight: 700;
+    border: none;
+    border-radius: 3px;
+}
+
+.big-text{
+    font-size: 80px;
+}
+
+.small-text{
+    font-size: 15px;
+}

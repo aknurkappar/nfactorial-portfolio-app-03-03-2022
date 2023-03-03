@@ -1,0 +1,9 @@
+.experience {
+    display: flex;
+    flex-direction: column;
+    height: 95vh;
+}
+
+.experience-header{
+    font-size: 80px;
+}

@@ -1,0 +1,19 @@
+.about {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 95vh;
+}
+
+.about img {
+    height: 300px;
+}
+
+.about-header{
+    font-size: 80px;
+    margin: 0;
+}
+.about div{
+    width: 40em;
+    font-size: 15px;
+}

@@ -1,0 +1,25 @@
+.menu-items{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.menu-items li{
+    list-style-type: none;
+    margin-right: 15px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header p{
+    font-size: 30px;
+}
+
+.line{
+    height: 5px;
+    
+}

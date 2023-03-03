@@ -1,0 +1,11 @@
+.menu-items{
+    display: flex;
+    flex-direction: row;
+    color: ;
+
+}
+
+
+.menu-items li{
+    list-style-type: none;
+}

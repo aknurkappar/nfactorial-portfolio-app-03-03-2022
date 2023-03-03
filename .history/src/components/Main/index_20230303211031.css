@@ -1,0 +1,26 @@
+.main{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main button{
+    width: 10em;
+    height: 3em;
+    background-color: #FD5A14;
+    color: aliceblue;
+    font-weight: 700;
+    border: none;
+    border-radius: 3px;
+    margin: 0;
+}
+
+.big-text{
+    font-size: 80px;
+    margin: 0;
+}
+
+.small-text{
+    font-size: 15px;
+}
